@@ -1,6 +1,4 @@
 # leet
 change
 
-update
-
-gege
+de
